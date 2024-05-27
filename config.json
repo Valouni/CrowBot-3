@@ -1,16 +1,16 @@
 {
-    "token": "process.env.TOKEN",
+    "token": "MTI0NDU2ODUzNDk0NDU4Mzc2Mw.GTYohq.5jjCxYbBFsyE52cfmdQ2g4j83OEnl7EY8a19SI",
     "color": "#5a0799",
-    "prefix": "*",
-    "name": "natrix",
+    "prefix": "+",
+    "name": "Equipe Narwa",
     "defaultjoinmessage": "{user} vient de rejoindre. Il a été invité par **{inviter:name}** qui a désormais **{invite} invitations** !",
     "defaultleavemessage": "{user} vient de quitter. Il avais été invité par **{inviter:name}** qui a désormais **{invite} invitations** ",
     "defaultLevelmessage": "**{user}** vient de passer au level **{level}** bravo à lui !",
     "owner": [
-        "1003618812836446281",
-        "953021664218742815",
-        "964833723977719878",
-        "929765564136689734",
+        "1093161040935653406",
+        "",
+        "",
+        "",
         ""
     ]
 }
