@@ -22,7 +22,7 @@ client.snipes = new Map()
 client.inter = new Array()
 
 
-client.login(client.config.token)
+client.login(process.env.token)
 
 }
 
